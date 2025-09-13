@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+opensearch:
+  scheme: "http"         # "http" for no security, "https" for demo security
+  host: "localhost"
+  port: 9200
+  username: ""           # e.g., "admin" for demo security
+  password: ""           # e.g., "admin" for demo security
+  index: "articles"
+  create-index-on-start: true
+  insecure-ssl: true     # only for local/demo with self-signed certs
