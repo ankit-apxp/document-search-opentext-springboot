@@ -9,10 +9,6 @@
      ```
      mvn spring-boot:run
      ```
-     or
-     ```
-     java -jar target/spring-opensearch-demo-1.0.0.jar
-     ```
 3. Hit the API
    - URL: http://localhost:8080/api/index
    - Example body:
