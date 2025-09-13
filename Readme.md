@@ -1,8 +1,3 @@
-
-
-
-Here’s a clean Markdown version:
-
 ### Steps
 1. Run Docker Compose
    - Command:
